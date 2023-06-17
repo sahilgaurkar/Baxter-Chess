@@ -16,7 +16,7 @@ Terminal 3:
 `roslaunch baxter_moveit_config baxter_grippers.launch`
 
 Terminal 4:  
-`rosrun coursework spawn_chessboard.py`
+`rosrun coursework spawn_chessboard.py`  
 `rosrun coursework gazebo2tfframe.py`
 
 Terminal 5:  
