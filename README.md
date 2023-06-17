@@ -25,3 +25,5 @@ Terminal 5:
 To delete Chessgame:  
 `rosrun coursework delete_chessgame.py`
 
+
+[Simulation Video](https://youtu.be/i8kd_YJA06E)
